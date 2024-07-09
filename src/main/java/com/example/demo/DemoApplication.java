@@ -15,7 +15,7 @@ public class DemoApplication {
 		class HelloController {
 			@GetMapping("/")
 			public String hello() {
-				return "Hello, Spring Boot! test3 success!!";
+				return "Hello, Spring Boot! docker image update!!";
 			}
 		}
 
